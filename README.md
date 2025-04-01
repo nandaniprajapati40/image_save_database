@@ -1,2 +1,5 @@
 # image_save_database
+USING - TECNOLOGY 
 HTML CSS 
+FLASK 
+MYSQL DATABASE
